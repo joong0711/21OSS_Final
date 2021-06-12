@@ -11,9 +11,9 @@ The 'three-line diary' is an application that allows you to record a day simply 
 This project is also a useful web application for those who want to write a diary, although it is difficult to write a long text, when they want to record a day freely.
 
 # Getting Started!
-The project used LAMP (Linux + apache + Mysql + PHP) and raspberry pi.
-<img src="https://user-images.githubusercontent.com/49269070/121780619-28a3d000-cbdc-11eb-9bc4-907c6bbcf015.PNG" width=400>
-<img src="https://user-images.githubusercontent.com/49269070/121780623-2a6d9380-cbdc-11eb-935c-c3d128316807.png" width=100>
+The project used LAMP (Linux + apache + Mysql + PHP) and raspberry pi.<br/>
+<img src="https://user-images.githubusercontent.com/49269070/121780619-28a3d000-cbdc-11eb-9bc4-907c6bbcf015.PNG" width=500>
+<img src="https://user-images.githubusercontent.com/49269070/121780623-2a6d9380-cbdc-11eb-935c-c3d128316807.png" width=200><br/>
 1. Install the lamp on your Raspberry pi.
 2. Clone the project under the directory of /var/www/html/.
 3. In MySQL, create a database named 'oss_diary' and a 'diary' table as shown in the picture below.
