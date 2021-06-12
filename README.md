@@ -1,6 +1,6 @@
 #21OSS_Final
 
-#What does this project do?
+#What does this project do?#
 This project is a diary where you can simply write down what happened during the day.
 
 #Why is this project useful?
