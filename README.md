@@ -27,4 +27,4 @@ The project used LAMP (Linux + apache + Mysql + PHP) and raspberry pi.<br/>
 1.	https://www.codexworld.com/upload-store-image-file-in-database-using-php-mysql/
 2.	https://www.w3schools.com/w3css/w3css_templates.asp
 
-presentation: https://youtu.be/haWcsDVg-gg
+presentation: https://youtu.be/75gYyC5X3YQ
