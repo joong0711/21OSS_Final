@@ -5,7 +5,7 @@ This project is a diary where you can simply write down what happened during the
 
 # Why is this project useful?
 ![3줄일기](https://user-images.githubusercontent.com/49269070/121778820-b3cc9800-cbd3-11eb-94b3-fcc346dae3cd.png)
-<img src="https://user-images.githubusercontent.com/49269070/121779441-9947ee00-cbd6-11eb-8f7d-c2cd8323097e.png" width=200><br/>
+<img src="https://user-images.githubusercontent.com/49269070/121779533-24c17f00-cbd7-11eb-8189-bc5787e65041.png" width=200><br/>
 The project got the idea from an application called 'three-line diary'.
 The 'three-line diary' application is an application that allows you to record a day simply with one picture and three lines of content.
 This project is also a useful web application for those who want to write a diary, although it is difficult to write a long text, when they want to record a day freely.
