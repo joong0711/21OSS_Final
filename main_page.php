@@ -27,7 +27,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   <!-- First Photo Grid-->
   <div class="w3-row-padding w3-padding-16 w3-center" id="food">
   <?php
-    $mysqli = mysqli_connect("localhost", "root", "", "oss_diary");
+    $mysqli = mysqli_connect("localhost", "admin", "raspberry", "oss_diary");
 
     if(mysqli_connect_errno()) {
         printf("Connect failed: %s\n", mysqli_connect_errno());

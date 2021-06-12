@@ -1,8 +1,8 @@
 <?php
 // Database configuration
 $dbHost     = "localhost";
-$dbUsername = "root";
-$dbPassword = "";
+$dbUsername = "admin";
+$dbPassword = "raspberry";
 $dbName     = "oss_diary";
 
 // Create database connection
