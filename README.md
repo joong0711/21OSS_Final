@@ -1,7 +1,7 @@
 <h2> 21OSS_Final <h2>
 
 <h3>What does this project do?<h3>
-This project is a diary where you can simply write down what happened during the day.
+<p>This project is a diary where you can simply write down what happened during the day.<p>
 
 <h3>Why is this project useful?<h3>
 The project got the idea from an application called 'three-line diary'.
