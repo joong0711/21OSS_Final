@@ -14,6 +14,7 @@ The project used LAMP (Linux + apache + Mysql + PHP) and raspberry pi.
 1. Install the lamp on your Raspberry pi.
 2. Clone the project under the directory of /var/www/html/.
 3. In MySQL, create a database named 'oss_diary' and a 'diary' table as shown in the picture below.
+
 ![sql](https://user-images.githubusercontent.com/49269070/121779106-f93d9500-cbd4-11eb-9edf-0281aa316b7f.png)
 
 # You need get some help?
