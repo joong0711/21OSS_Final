@@ -74,7 +74,7 @@ function w3_close() {
 
 //write diary button
 function write_diary() {
-  location.href='write_page.php';
+  location.href='write_page.html';
 }
 
 </script>

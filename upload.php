@@ -37,4 +37,18 @@ if(isset($_POST["submit"]) && !empty($_FILES["file"]["name"])){
 
 // Display status message
 echo $statusMsg;
+
+register_shutdown_function('shutdown');
+
+function shutdown(){
+	$lastError = error_get_last();
+	if($lastError !== null){
+		$log = array();
+		$log['error_message'] = $lastError;
+		$log['debug'] = debug_backtrace();
+
+		print_r($log);
+	}
+}
+
 ?>
